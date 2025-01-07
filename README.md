@@ -63,11 +63,3 @@ Contributions are welcome! If you want to contribute:
 3. Commit your changes and push to your branch.
 4. Submit a pull request.
 
-
----
-
-## Contact
-For any inquiries or feedback, feel free to reach out:
-- **Email**: mdazizurrahim27@gmail.com
-- **GitHub**: azrahive
-
